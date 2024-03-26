@@ -20,7 +20,7 @@ I'm happy to collaborate with you; find me here
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="behance logo"  />
   </a>
 </div>
-##
+
 
 Design Tool Kit
 <div align="left">
@@ -35,7 +35,6 @@ Design Tool Kit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="39" alt="aftereffects logo"  />
 </div>
 
-##
 
 
 Web/Mobile App Frontend Technologies
@@ -54,7 +53,7 @@ Web/Mobile App Frontend Technologies
 </div>
 
 
-##Backend Dev, Version Control, DevOps, IDE Toolkit
+Backend Dev, Version Control, DevOps, IDE Toolkit
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
