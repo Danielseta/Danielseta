@@ -99,10 +99,6 @@ Backend Dev, Version Control, DevOps, IDE Toolkit
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Danielseta/Danielseta/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 [![](https://visitcount.itsvg.in/api?id=Danielseta&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
