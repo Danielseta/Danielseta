@@ -12,6 +12,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Danielseta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielseta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Danielseta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
