@@ -1,6 +1,4 @@
-# 💫 About Me:
-💫 Hello ! Daniel Here 🔋I am Currently Working on Sharpening my JavaScript Skills and learning React<br>🧪 I'm looking to collaborate on any Js/React or any Programming projects<br>🌱 I'm currently learning Js, React, Next. js<br>⚡ Fun Fact I'm also a Ui/Ux designer and graphics designer
-
+# Hello ! I am Daniel. 👨🏾‍💻I am a frontend Developer From Zambia🇿🇲 <br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://behance.net/https://behance.net/Daniel) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/Add) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ui.daniel__seta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://linkedin.com/in/Daniel) 
