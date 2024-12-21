@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Lusaka, Zambia</h3>
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 Wanna Collaborate ?** 
 
 - 👨‍💻 All of my projects are available at [https://danie-web.vercel.app](https://danie-web.vercel.app)
 
